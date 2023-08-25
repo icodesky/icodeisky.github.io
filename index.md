@@ -1,3 +1,5 @@
-# 欢迎进入木里得斯（icode_isky）的Github主页
+这个网站是用来存放我的markdown笔记，利用GitHub Pages搭建，直接使用官方主题，只要上传markdown就可以自动转换成html，相比在GitHub仓库，这个网站速度要快一点，观感也要好。
+ 
+如果也想尝试，先建立一个pages仓库，参照我的[仓库](https://github.com/icodesky/icodeisky.github.io)把_config.yml index.md修改。
 
-[第一篇博文](https://github.com/icodesky/icodeisky.github.io/edit/main/d_20230825.md)
+[第一篇博文](./d_20230825.md)
