@@ -2,4 +2,4 @@
  
 如果也想尝试，先建立一个pages仓库，参照我的[仓库](https://github.com/icodesky/icodeisky.github.io)把_config.yml index.md修改。
 
-[第一篇博文](./d_20230825.md)
+[设计配色方案的制作与运用技巧](./d_20230825.md)
